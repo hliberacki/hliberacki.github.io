@@ -226,3 +226,6 @@ MockedSQL is no needed to be derived from ISQL anymore, since template can be an
 
 All we need to do is just provide Injected type as a template parameter `Implementation<MockedSQL>` and that's it.
 See [full code in Coliru](https://coliru.stacked-crooked.com/a/b5be9e5193fa9c01)
+
+
+Hubert Liberacki
