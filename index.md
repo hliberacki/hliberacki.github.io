@@ -1,3 +1,2 @@
 ## Content list
-```markdown
-- [Making testable interfaces](todo.com) 
+- [Making testable interfaces](www.todo.com) 
