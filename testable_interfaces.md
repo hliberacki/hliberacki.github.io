@@ -225,7 +225,7 @@ int main()
 MockedSQL is no needed to be derived from ISQL anymore, since template can be any type which fulfils SQL interface, so we would not have compilation issues. Just a note, it's wise to provide Concepts like checks, to ensure that DateBase is meeting the requirements of DateBase interface.
 
 All we need to do is just provide Injected type as a template parameter `Implementation<MockedSQL>` and that's it.
-See [full code in Coliru](https://coliru.stacked-crooked.com/a/b5be9e5193fa9c01)
 
+See [full code in Coliru](https://coliru.stacked-crooked.com/a/b5be9e5193fa9c01)
 
 Hubert Liberacki
